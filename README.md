@@ -1,2 +1,3 @@
-# 7-Meu-Site-de-hospedagem
+Site de hospedagem e tecnologias
+Exercicio pratico DevMedia.
  
